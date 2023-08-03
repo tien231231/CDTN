@@ -1,6 +1,186 @@
-<mxfile host="app.diagrams.net" modified="2023-08-03T08:30:08.524Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" version="21.6.3" etag="FznRjhfWpOlVkp21s-6D" type="github">
-  <diagram name="Page-1" id="_I2KgSImMl9RNj-Q_15d">
-    <mxGraphModel>
+<mxfile host="app.diagrams.net" modified="2023-08-03T09:15:26.541Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="vHVj1_z86iECKqI0L8_C" version="21.6.3" type="github" pages="2">
+  <diagram name="Page-1" id="fd1MxIbhYuOFGr4s85Up">
+    <mxGraphModel dx="763" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-d_batroWxDvzxkx_VTL-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#D9C9B3;" vertex="1" parent="1">
+          <mxGeometry x="1025" y="730" width="630" height="630" as="geometry" />
+        </mxCell>
+        <mxCell id="-d_batroWxDvzxkx_VTL-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-d_batroWxDvzxkx_VTL-3" target="-d_batroWxDvzxkx_VTL-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="930" y="650" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-d_batroWxDvzxkx_VTL-3" value="Chủ dự án" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="910" y="910" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-d_batroWxDvzxkx_VTL-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-d_batroWxDvzxkx_VTL-5" target="-d_batroWxDvzxkx_VTL-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="955" y="660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-d_batroWxDvzxkx_VTL-5" value="Quản lý dự án" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="940" y="1120" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-d_batroWxDvzxkx_VTL-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-d_batroWxDvzxkx_VTL-7" target="-d_batroWxDvzxkx_VTL-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1755" y="650" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-d_batroWxDvzxkx_VTL-7" value="Người giám sát" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1750" y="920" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-d_batroWxDvzxkx_VTL-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-d_batroWxDvzxkx_VTL-9" target="-d_batroWxDvzxkx_VTL-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1720" y="1140" as="sourcePoint" />
+            <mxPoint x="1305" y="657.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1720" y="1140" />
+              <mxPoint x="1720" y="660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-d_batroWxDvzxkx_VTL-9" value="Thành viên dự án" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1710" y="1160" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-d_batroWxDvzxkx_VTL-11" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="630" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-d_batroWxDvzxkx_VTL-12" value="Đăng ký" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="770" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-d_batroWxDvzxkx_VTL-13" value="Đăng nhập" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1305" y="770" width="105" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-d_batroWxDvzxkx_VTL-14" value="Đăng xuất" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="770" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-d_batroWxDvzxkx_VTL-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-d_batroWxDvzxkx_VTL-11" target="-d_batroWxDvzxkx_VTL-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1175" y="680" as="sourcePoint" />
+            <mxPoint x="1300" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-d_batroWxDvzxkx_VTL-16" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="-d_batroWxDvzxkx_VTL-12" source="-d_batroWxDvzxkx_VTL-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1270" y="680" as="sourcePoint" />
+            <mxPoint x="1155" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-d_batroWxDvzxkx_VTL-17" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="-d_batroWxDvzxkx_VTL-14" source="-d_batroWxDvzxkx_VTL-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1420" y="670" as="sourcePoint" />
+            <mxPoint x="1535" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-d_batroWxDvzxkx_VTL-19" value="Quản lý giai đoạn" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1285" y="1040" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-d_batroWxDvzxkx_VTL-20" value="Quản lý công việc" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1285" y="1170" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-d_batroWxDvzxkx_VTL-21" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="-d_batroWxDvzxkx_VTL-20" source="-d_batroWxDvzxkx_VTL-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="930" y="1149.38" as="sourcePoint" />
+            <mxPoint x="1314.9999999999945" y="1149.38" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-d_batroWxDvzxkx_VTL-22" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="-d_batroWxDvzxkx_VTL-19" source="-d_batroWxDvzxkx_VTL-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="935" y="933.5714285714287" as="sourcePoint" />
+            <mxPoint x="1234.98" y="1007" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-d_batroWxDvzxkx_VTL-29" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="-d_batroWxDvzxkx_VTL-3" target="-d_batroWxDvzxkx_VTL-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="940" y="930" as="sourcePoint" />
+            <mxPoint x="1235" y="901.4300000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-d_batroWxDvzxkx_VTL-18" value="Quản lý dự án" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1285" y="910" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-d_batroWxDvzxkx_VTL-32" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="-d_batroWxDvzxkx_VTL-3" target="-d_batroWxDvzxkx_VTL-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1670" y="980" as="sourcePoint" />
+            <mxPoint x="1720" y="930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-d_batroWxDvzxkx_VTL-34" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="-d_batroWxDvzxkx_VTL-7" target="-d_batroWxDvzxkx_VTL-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1670" y="980" as="sourcePoint" />
+            <mxPoint x="1720" y="930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-d_batroWxDvzxkx_VTL-35" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="-d_batroWxDvzxkx_VTL-7" target="-d_batroWxDvzxkx_VTL-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1890" y="1061.91" as="sourcePoint" />
+            <mxPoint x="1450" y="1037.91" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-d_batroWxDvzxkx_VTL-36" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="-d_batroWxDvzxkx_VTL-9" target="-d_batroWxDvzxkx_VTL-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1880" y="1180" as="sourcePoint" />
+            <mxPoint x="1440" y="1156" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-d_batroWxDvzxkx_VTL-37" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="-d_batroWxDvzxkx_VTL-9" target="-d_batroWxDvzxkx_VTL-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1880" y="1080" as="sourcePoint" />
+            <mxPoint x="1440" y="1056" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-d_batroWxDvzxkx_VTL-38" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="-d_batroWxDvzxkx_VTL-7" target="-d_batroWxDvzxkx_VTL-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1670" y="1010" as="sourcePoint" />
+            <mxPoint x="1720" y="960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-d_batroWxDvzxkx_VTL-39" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="-d_batroWxDvzxkx_VTL-5" target="-d_batroWxDvzxkx_VTL-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1670" y="1010" as="sourcePoint" />
+            <mxPoint x="1720" y="960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-d_batroWxDvzxkx_VTL-40" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="-d_batroWxDvzxkx_VTL-5" target="-d_batroWxDvzxkx_VTL-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1670" y="1010" as="sourcePoint" />
+            <mxPoint x="1720" y="960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-d_batroWxDvzxkx_VTL-47" value="Quản lý thành viên" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1285" y="1260" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-d_batroWxDvzxkx_VTL-48" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="-d_batroWxDvzxkx_VTL-3" target="-d_batroWxDvzxkx_VTL-47">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1190" y="1080" as="sourcePoint" />
+            <mxPoint x="1240" y="1030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-d_batroWxDvzxkx_VTL-49" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="-d_batroWxDvzxkx_VTL-5" target="-d_batroWxDvzxkx_VTL-47">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1190" y="1170" as="sourcePoint" />
+            <mxPoint x="1240" y="1120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-d_batroWxDvzxkx_VTL-50" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="-d_batroWxDvzxkx_VTL-9" target="-d_batroWxDvzxkx_VTL-47">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1550" y="1170" as="sourcePoint" />
+            <mxPoint x="1600" y="1120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Page-2" id="bGbJUwUYcFUf2Gw4MxeA">
+    <mxGraphModel dx="1290" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
